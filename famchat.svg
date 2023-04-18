@@ -1,0 +1,10 @@
+<svg width="124" height="124" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="230" height="230" stroke="#000000" fill="#FFFFFF"/>
+  <rect x="15" y="40" width="200" height="140" rx="10" fill="#FFEBE4"/>
+  <text x="50%" y="30%" font-size="80" text-anchor="middle" fill="#FF5733" font-family="Arial">FamChat</text>
+  <circle cx="50%" cy="65%" r="15" fill="#FF5733"/>
+  <circle cx="60%" cy="65%" r="15" fill="#FFC300"/>
+  <circle cx="70%" cy="65%" r="15" fill="#C70039"/>
+  <circle cx="80%" cy="65%" r="15" fill="#900C3F"/>
+  <circle cx="90%" cy="65%" r="15" fill="#581845"/>
+</svg>
